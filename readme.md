@@ -1,0 +1,1 @@
+Python, Django ORM educational assignment at Coding Dojo
